@@ -24,7 +24,7 @@ return [
     | Allowed Origins
     |--------------------------------------------------------------------------
     */
-    'allowed_origins' => ['http://localhost:4200'],
+    'allowed_origins' => ['http://localhost:4200', 'https://fleet-app-front-update.vercel.app'],
     /*
     |--------------------------------------------------------------------------
     | Allowed Headers
